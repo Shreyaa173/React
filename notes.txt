@@ -1,0 +1,5 @@
+1. JS works on real don whereas react works on virtual dom. suppose we want to change a heading on click of a button what js will do is re-render the whole application that is slow and hectic so that's when react came in picture.
+
+2. ReactJS works on the principle of virtual dom. It makes a copy of real DOM. We don't directly interact with real dom we'll interact with virtual dom.
+
+3. 
