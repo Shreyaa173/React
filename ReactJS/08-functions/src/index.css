@@ -4,8 +4,38 @@
     box-sizing: border-box;
     font-family: 'helvetica neue';
 }
+
 html,
 body {
     height: 100%;
     width: 100%;
+}
+
+.input-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.input-text input{
+    height: 40px;
+    width: 200px;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.page-1{
+    height: 100vh;
+    background: #111;
+}
+
+.page-2{
+    height: 100vh;
+    background: #222;
+}
+
+.page-3{
+    height: 100vh;
+    background: #333;
 }
